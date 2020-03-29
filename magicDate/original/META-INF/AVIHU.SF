@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+Created-By: 11.0.6 (Oracle Corporation)
+SHA-256-Digest-Manifest: wlagaNSSM6D3LD3/OsS8TXktWAvmRv7+exBNPYwAl2s=
+SHA-256-Digest-Manifest-Main-Attributes: wsTqDNgVLR14s3cZrgBvIu7qzp6PGsv
+ BQ22KUkNuvVY=
+
+Name: res/drawable/background.png
+SHA-256-Digest: nf39ENuNkNndwcBuuSSjFkIeE9xX7SzksKPIy85+TjY=
+
+Name: res/drawable/star.png
+SHA-256-Digest: /zLA8b9t+NpQR7Cdog89kVbPSq9NjHn06PJ/XPTVLMQ=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: F3B4ysL+rBOrmofZSPTcp2z8yih9wankc8EfMm/eGIg=
+
+Name: res/drawable/ic_menu_help.png
+SHA-256-Digest: qAVHh1ZkXRCnCli/Fhs3TEgBCkCcK7KVlOWifJI6x0c=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: Q89zpzIHUte2LefVwM5TRf7LTgffuK/Q4q47zq7UFdA=
+
+Name: res/layout/main.xml
+SHA-256-Digest: PN4auZJp0ZlXGBD9h9R/GF7Fyhd/zGPpyaVeY4dEFWk=
+
+Name: res/drawable/cloud.png
+SHA-256-Digest: NXGj7+iDn7sd30AoehkppPUd0jwemx7uuC9gNSPs6Rw=
+
+Name: resources.arsc
+SHA-256-Digest: Lon5ryKHAcngZhmw3w8fXJdd4ynMdoTPdrtP2tDApfg=
+
+Name: res/menu/menu.xml
+SHA-256-Digest: giFfeB8u7YfOxhGaKljXPZWYrXCNo+0H8V9aqe9Y2XU=
+
+Name: classes.dex
+SHA-256-Digest: tbcK8tFx8NTliXhhcH9p54kFvOUm2P6JaVAWyYLeJl4=
+

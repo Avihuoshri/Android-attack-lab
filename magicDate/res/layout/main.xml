@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="8.0dip">
+        <DatePicker android:layout_gravity="center" android:id="@id/datepicker" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="onClick" />
+        <EditText android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/anzahl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" android:text="" android:numeric="integer" />
+        <SeekBar android:id="@id/typ" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:max="6" android:progress="3" />
+        <TextView android:textSize="18.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/typ_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tage" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="*"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <Button android:layout_gravity="center_horizontal" android:id="@id/berechnen" android:layout_width="wrap_content" android:layout_height="35.0dip" android:text="@string/btn_berechnen" android:layout_weight="1.0" android:onClick="onClick" />
+            <Button android:layout_gravity="center_horizontal" android:id="@id/zufall" android:layout_width="wrap_content" android:layout_height="35.0dip" android:text="@string/btn_zufall" android:layout_weight="1.0" android:onClick="onClick" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:background="@drawable/cloud" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <TextView android:textSize="20.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center" android:id="@id/datum" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Your Magic Date is:\n" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

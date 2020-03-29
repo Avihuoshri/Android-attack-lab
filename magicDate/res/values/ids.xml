@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="datepicker" />
+    <item type="id" name="anzahl" />
+    <item type="id" name="typ" />
+    <item type="id" name="typ_text" />
+    <item type="id" name="berechnen" />
+    <item type="id" name="zufall" />
+    <item type="id" name="datum" />
+    <item type="id" name="help" />
+</resources>

@@ -1,0 +1,43 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/background.png
+SHA1-Digest: O4yWcIgpP3Nbp3Hlt9xC7WUPcbU=
+SHA-256-Digest: JbvLl9mfV+ERhucDUz3EJpDpvgDbSYQLgJ7IvdEYPBc=
+
+Name: res/drawable/star.png
+SHA1-Digest: 4KoiSRyCRRxG87VPLQmjTShY5ZM=
+SHA-256-Digest: D/09qFCCANfHdEuFbLac0yJwx3QQvUMW53+xlvxuDxw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: UwjKQsFqHNDy9XT/nRN2mrs0bo0=
+SHA-256-Digest: jxr496CPPSGlqLsvl9slxUbIBzPs1RoY8Ia0J4USl1E=
+
+Name: res/drawable/ic_menu_help.png
+SHA1-Digest: Os3pbcdw3tE8Ctjv4LM6cjTiAg8=
+SHA-256-Digest: uhw3PQerlZ7jp9AHxy6LPNPTCutdub3V0+v980rdTpc=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 3sLfhLJIRY3o4sb81TTuRdgRyY8=
+SHA-256-Digest: 8A2kwUqpLEZD40/raE/GuZjuLv/UXBHY++MeHlxThKA=
+
+Name: res/layout/main.xml
+SHA1-Digest: M4u3Lz/gs7HHflFVgE80I8tjsTI=
+SHA-256-Digest: q730XXpGsgZbrfgMsFBM2wP3GMUQDTG4q8k9CXY+oZ8=
+
+Name: res/drawable/cloud.png
+SHA1-Digest: m2ByuIrdNAubLagpQCUbjPhXS00=
+SHA-256-Digest: T8u/HDS5uN1NOWKGBNnltONlFRMFx7i9lhKKWz2nWdA=
+
+Name: resources.arsc
+SHA1-Digest: /EnkIfTgjUe1kroOMFV6cYEKKPI=
+SHA-256-Digest: llvQFOTOOZ0IiOPjq/IUoihVnv6PjN/RRG9YO1gS8Lk=
+
+Name: res/menu/menu.xml
+SHA1-Digest: anqpmjxqg47J17piC3QEMIlEg8w=
+SHA-256-Digest: SaGzxfmkyqcKLE+8ArgIyJPHnqeJcfARh3fuJOb+qag=
+
+Name: classes.dex
+SHA1-Digest: isIRxDukHLaZLpTqTtNGPUeYpLY=
+SHA-256-Digest: SeMyxmpq8OenA7FQxQMgxsnm74OibJmvaN2fMWY85RY=
+

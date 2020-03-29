@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Date</string>
+    <string name="btn_berechnen">Calculate</string>
+    <string name="btn_zufall">Random</string>
+    <string name="txt_sekunden">Seconds</string>
+    <string name="txt_minuten">Minutes</string>
+    <string name="txt_stunden">Hours</string>
+    <string name="txt_tage">Days</string>
+    <string name="txt_wochen">Weeks</string>
+    <string name="txt_monate">Months</string>
+    <string name="txt_jahre">Years</string>
+    <string name="txt_magicdate">Your Magic Date is:</string>
+    <string name="msg_wert">Please choose a value!</string>
+    <string name="txt_hilfe">Help</string>
+    <string name="txt_hilfetext">"Magic Date
+Version: 1.0.0
+© Richard Schermann
+
+How to calculate your Magic Date:
+
+1. Choose date 
+(e.g.: 11.11.2011)
+2. Choose number 
+(e.g.: 10000)
+3. Choose unit 
+(e.g.: Days)
+4. Click calculate
+
+If you click on the Random button, a random Magic Date is calculated."</string>
+</resources>
